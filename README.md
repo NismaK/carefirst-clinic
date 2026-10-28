@@ -31,7 +31,7 @@ This is a front-end demonstration. The form does not submit or store real patien
 
 ## Live Demo
 
-Add your GitHub Pages URL here after deployment.
+https://nismak.github.io/carefirst-clinic/
 
 ## AI Prompting Process
 
